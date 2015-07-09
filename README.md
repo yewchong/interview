@@ -1,9 +1,7 @@
 # interview
 Interview question
 
-
-
-In this question, you are to implement a UITableView on iOS. The functions are as follows:
+There are three parts to this questions. You are to implement a UITableView on iOS. The functions are as follows:
 
 1) Parse JSON content and display the JSON content on UITableView
 	- JSON content can either be retrieved locally or
@@ -16,3 +14,5 @@ In this question, you are to implement a UITableView on iOS. The functions are a
 3) Each item on the UITableView can be clicked in which it will display the image and description 
 
 ![UITable](https://raw.githubusercontent.com/yewchong/interview/master/refimg/1.png "UITable")
+
+![UITable](https://raw.githubusercontent.com/yewchong/interview/master/refimg/2.png "UITable")
