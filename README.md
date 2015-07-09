@@ -15,4 +15,4 @@ In this question, you are to implement a UITableView on iOS. The functions are a
 
 3) Each item on the UITableView can be clicked in which it will display the image and description 
 
-![UITable]( "UITable")
+![UITable](https://raw.githubusercontent.com/yewchong/interview/master/refimg/1.png "UITable")
