@@ -13,6 +13,8 @@ There are three parts to this questions. You are to implement a UITableView on i
 
 3) Each item on the UITableView can be clicked in which it will display the image and description 
 
+_Tip: You are allowed to use libraries provided on the Internet to perform JSON processing_
+
 ![UITable](https://raw.githubusercontent.com/yewchong/interview/master/refimg/1.png "UITable")
 
 ![UITable](https://raw.githubusercontent.com/yewchong/interview/master/refimg/2.png "UITable")
